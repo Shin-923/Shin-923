@@ -14,7 +14,7 @@ TypeScript · Fastify · React · Claude API · Vitest
 
 | 프로젝트 | 기술 |
 |---|---|
-| 통역사 공고 · 섭외 관리 웹 서비스 | Python, JavaScript, SSE, AWS EC2 |
+| 통역사 공고 · 섭외 관리 웹 서비스 (정식 오픈 전) | Java · Spring Boot, JavaScript, SSE, AWS EC2 |
 | 수출상담회 부스 현황판 · 상담 예약 | JavaScript, Google Apps Script, Google Sheets |
 | 통역원 상담 자료 · 만족도 설문 사이트 (행사 3일 운영, 응답 388건) | JavaScript, Google Apps Script |
 | 상담 기록 6,600여 건 대조 · 일괄 정정 | Python(openpyxl) |
